@@ -2,7 +2,7 @@
 ||Authors: Richard S. Bird, Philip Wadler.
 ||Chapter 4.1: Base Example.
 
-%export convert6 link units teens tens
+%export digits3 convert2 convert6 link units teens tens
 
 units = ["one","two","three","four","five","six","seven","eight","nine"]
 teens = ["ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen"]
