@@ -2,7 +2,7 @@
 ||Exercise from the book: Introduction to Functional Programming.
 ||Author: zaheridor.
 ||Chapter: 4.2.
-||Exercise 4.2.8
+||Exercise 4.2.4
 
 %include "comparison.m"
 %include "addandsub.m"
